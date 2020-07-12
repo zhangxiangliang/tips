@@ -1,9 +1,18 @@
 module.exports = {
   base: '/tips/',
-  title: "理财小百科",
-  description: "韭菜小猪",
+  title: "韭菜小猪",
+  description: "一只爱吃韭菜的小猪",
   themeConfig: {
     logo: '/images/logo.png',
+    nav: [{
+        text: '小百科',
+        link: '/'
+      },
+      {
+        text: 'Github',
+        link: 'https://github.com/jiucaixiaozhu/tips'
+      },
+    ],
     sidebar: [{
       title: "数值指标",
       children: [
