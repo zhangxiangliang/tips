@@ -26,6 +26,7 @@ module.exports = {
       children: [
         ['/fund/基金', '基金'],
         ['/fund/货币基金', '货币基金'],
+        ['/fund/债券基金', '债券基金'],
       ]
     }, {
       title: "金融术语",
