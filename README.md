@@ -19,6 +19,10 @@
 * [北上资金](docs/market/北上资金.md)
 * [南下资金](docs/market/南下资金.md)
 
+## 基金术语
+
+* [基金](docs/fund/基金.md)
+
 ## 金融术语
 
 * [通货膨胀](docs/terms/通货膨胀.md)

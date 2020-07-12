@@ -22,6 +22,11 @@ module.exports = {
         ['/market/南下资金', '南下资金'],
       ]
     }, {
+      title: "基金术语",
+      children: [
+        ['/fund/基金', '基金'],
+      ]
+    }, {
       title: "金融术语",
       children: [
         ['/terms/通货膨胀', '通货膨胀'],
