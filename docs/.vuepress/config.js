@@ -16,6 +16,7 @@ module.exports = {
       title: "资金市场",
       children: [
         ['/market/一级市场', '一级市场'],
+        ['/market/二级市场', '二级市场'],
       ]
     }]
   }
