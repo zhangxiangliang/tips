@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/tips',
+  base: '/tips/',
   title: "理财小百科",
   description: "韭菜小猪",
   themeConfig: {
