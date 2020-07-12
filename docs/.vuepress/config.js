@@ -4,18 +4,13 @@ module.exports = {
   themeConfig: {
     logo: '/images/logo.png',
     sidebar: [{
-        title: "市盈率",
-        children: [
-          ['/guide/市净率', '市净率'],
-        ]
-      },
-      {
-        title: "市盈率",
-        children: [
-          ['/guide/市盈率', '市盈率'],
-          ['/guide/市盈率陷阱', '市盈率陷阱'],
-        ]
-      }
-    ]
+      title: "数值指标",
+      children: [
+        ['/guide/市净率', '市净率'],
+        ['/guide/市盈率', '市盈率'],
+        ['/guide/市盈率陷阱', '市盈率陷阱'],
+        ['/guide/股息率', '股息率'],
+      ]
+    }]
   }
 }
