@@ -21,6 +21,11 @@ module.exports = {
         ['/market/北上资金', '北上资金'],
         ['/market/南下资金', '南下资金'],
       ]
+    }, {
+      title: "金融术语",
+      children: [
+        ['/terms/通货膨胀', '通货膨胀'],
+      ]
     }]
   }
 }
