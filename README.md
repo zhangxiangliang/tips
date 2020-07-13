@@ -39,6 +39,10 @@
 * [LOF](docs/fund/LOF.md)
 * [FOF](docs/fund/FOF.md)
 
+## 银行存款
+
+* [创新型存款]('docs/bank/创新型存款.md)
+
 ## 金融术语
 
 * [通货膨胀](docs/terms/通货膨胀.md)

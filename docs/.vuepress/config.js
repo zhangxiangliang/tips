@@ -52,6 +52,11 @@ module.exports = {
         ['/fund/FOF', 'FOF'],
       ]
     }, {
+      title: "银行存款",
+      children: [
+        ['/bank/创新型存款', '创新型存款'],
+      ]
+    }, {
       title: "金融术语",
       children: [
         ['/terms/通货膨胀', '通货膨胀'],
