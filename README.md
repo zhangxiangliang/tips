@@ -36,6 +36,7 @@
 * [基金分红](docs/fund/基金分红.md)
 * [ETF](docs/fund/ETF.md)
 * [LOF](docs/fund/LOF.md)
+* [FOF](docs/fund/FOF.md)
 
 ## 金融术语
 

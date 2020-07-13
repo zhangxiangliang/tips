@@ -48,6 +48,7 @@ module.exports = {
         ['/fund/基金分红', '基金分红'],
         ['/fund/ETF', 'ETF'],
         ['/fund/LOF', 'LOF'],
+        ['/fund/FOF', 'FOF'],
       ]
     }, {
       title: "金融术语",
