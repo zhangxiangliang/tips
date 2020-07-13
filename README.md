@@ -20,6 +20,7 @@
 * [南下资金](docs/market/南下资金.md)
 * [场外基金](docs/market/场外基金.md)
 * [场内基金](docs/market/场内基金.md)
+* [主板市场](docs/market/主板市场.md)
 
 ## 基金术语
 
