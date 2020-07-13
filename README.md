@@ -30,6 +30,9 @@
 * [指数基金](docs/fund/指数基金.md)
 * [增强型指数基金](docs/fund/增强型指数基金.md)
 * [策略加权指数基金](docs/fund/策略加权指数基金.md)
+* [场外基金](docs/fund/场外基金.md)
+* [场内基金](docs/fund/场内基金.md)
+* [申购赎回](docs/fund/申购赎回.md)
 
 ## 金融术语
 
