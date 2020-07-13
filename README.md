@@ -26,6 +26,7 @@
 * [债券基金](docs/fund/债券基金.md)
 * [纯债基金](docs/fund/纯债基金.md)
 * [指数基金](docs/fund/指数基金.md)
+* [增强型指数基金](docs/fund/增强型指数基金.md)
 * [策略加权指数基金](docs/fund/策略加权指数基金.md)
 
 ## 金融术语
