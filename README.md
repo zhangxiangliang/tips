@@ -34,6 +34,7 @@
 * [场内基金](docs/fund/场内基金.md)
 * [申购赎回](docs/fund/申购赎回.md)
 * [基金分红](docs/fund/基金分红.md)
+* [ETF](docs/fund/ETF.md)
 
 ## 金融术语
 
