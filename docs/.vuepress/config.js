@@ -62,6 +62,7 @@ module.exports = {
       children: [
         ['/terms/通货膨胀', '通货膨胀'],
         ['/terms/黑天鹅事件', '黑天鹅事件'],
+        ['/terms/灰犀牛事件', '灰犀牛事件'],
       ]
     }]
   }
