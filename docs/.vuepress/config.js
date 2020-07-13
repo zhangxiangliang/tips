@@ -47,6 +47,7 @@ module.exports = {
         ['/fund/申购赎回', '申购赎回'],
         ['/fund/基金分红', '基金分红'],
         ['/fund/ETF', 'ETF'],
+        ['/fund/LOF', 'LOF'],
       ]
     }, {
       title: "金融术语",
