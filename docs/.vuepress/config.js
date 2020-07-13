@@ -55,6 +55,7 @@ module.exports = {
       title: "银行存款",
       children: [
         ['/bank/创新型存款', '创新型存款'],
+        ['/bank/结构型存款', '结构型存款'],
       ]
     }, {
       title: "金融术语",
