@@ -25,6 +25,7 @@
 * [货币基金](docs/fund/货币基金.md)
 * [债券基金](docs/fund/债券基金.md)
 * [纯债基金](docs/fund/纯债基金.md)
+* [指数基金](docs/fund/指数基金.md)
 
 ## 金融术语
 
