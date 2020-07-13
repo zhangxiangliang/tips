@@ -61,6 +61,7 @@ module.exports = {
       title: "金融术语",
       children: [
         ['/terms/通货膨胀', '通货膨胀'],
+        ['/terms/黑天鹅事件', '黑天鹅事件'],
       ]
     }]
   }
