@@ -23,6 +23,7 @@
 * [主板市场](docs/market/主板市场.md)
 * [中小板市场](docs/market/中小板市场.md)
 * [创业板市场](docs/market/创业板市场.md)
+* [科创板市场](docs/market/科创板市场.md)
 
 ## 基金术语
 
