@@ -28,6 +28,7 @@ module.exports = {
         ['/market/一级市场', '一级市场'],
         ['/market/二级市场', '二级市场'],
         ['/market/A股', 'A股'],
+        ['/market/B股', 'B股'],
         ['/market/北上资金', '北上资金'],
         ['/market/南下资金', '南下资金'],
         ['/market/场外基金', '场外基金'],
