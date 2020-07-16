@@ -43,6 +43,7 @@ module.exports = {
       children: [
         ['/stock/股票', '股票'],
         ['/stock/白马股', '白马股'],
+        ['/stock/蓝筹股', '蓝筹股'],
       ]
     }, {
       title: "基金术语",
