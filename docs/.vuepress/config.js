@@ -39,6 +39,11 @@ module.exports = {
         ['/market/区域股权市场', '区域股权市场'],
       ]
     }, {
+      title: "股票术语",
+      children: [
+        ['/fund/股票', '股票'],
+      ]
+    }, {
       title: "基金术语",
       children: [
         ['/fund/基金', '基金'],
