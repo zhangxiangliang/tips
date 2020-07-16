@@ -29,7 +29,8 @@
 
 ## 股票术语
 
-* [股票](docs/fund/股票.md)
+* [股票](docs/stock/股票.md)
+* [白马股](docs/stock/白马股.md)
 
 ## 基金术语
 
