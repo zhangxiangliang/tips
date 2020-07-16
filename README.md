@@ -54,10 +54,14 @@
 * [LOF](docs/fund/LOF.md)
 * [FOF](docs/fund/FOF.md)
 
+## 价值投资
+
+* [价值投资](docs/value-investing/价值投资.md)
+
 ## 银行存款
 
-* [创新型存款]('docs/bank/创新型存款.md)
-* [结构型存款]('docs/bank/结构型存款.md)
+* [创新型存款](docs/bank/创新型存款.md)
+* [结构型存款](docs/bank/结构型存款.md)
 
 ## 金融术语
 

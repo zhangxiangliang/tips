@@ -68,6 +68,11 @@ module.exports = {
         ['/fund/FOF', 'FOF'],
       ]
     }, {
+      title: "价值投资",
+      children: [
+        ['/value-investing/价值投资', '价值投资'],
+      ]
+    }, {
       title: "银行存款",
       children: [
         ['/bank/创新型存款', '创新型存款'],
