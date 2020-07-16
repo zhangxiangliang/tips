@@ -66,6 +66,7 @@
 
 ## 金融术语
 
+* [市场先生](docs/terms/市场先生.md)
 * [通货膨胀](docs/terms/通货膨胀.md)
 * [黑天鹅事件](docs/terms/黑天鹅事件.md)
 * [灰犀牛事件](docs/terms/灰犀牛事件.md)
