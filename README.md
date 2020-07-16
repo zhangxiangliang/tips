@@ -57,6 +57,7 @@
 ## 价值投资
 
 * [价值投资](docs/value-investing/价值投资.md)
+* [基础概念](docs/value-investing/基础概念.md)
 
 ## 银行存款
 

@@ -71,6 +71,7 @@ module.exports = {
       title: "价值投资",
       children: [
         ['/value-investing/价值投资', '价值投资'],
+        ['/value-investing/基础概念', '基础概念'],
       ]
     }, {
       title: "银行存款",
