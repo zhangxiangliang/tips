@@ -59,6 +59,7 @@
 * [价值投资](docs/value-investing/价值投资.md)
 * [基础概念](docs/value-investing/基础概念.md)
 * [能力圈](docs/value-investing/能力圈.md)
+* [安全边际](docs/value-investing/安全边际.md)
 
 ## 银行存款
 
