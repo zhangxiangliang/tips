@@ -12,7 +12,7 @@
 * [分红率](docs/data/分红率.md)
 * [市盈率陷阱](docs/data/市盈率陷阱.md)
 
-## 资金市场
+## 市场相关
 
 * [一级市场](docs/market/一级市场.md)
 * [二级市场](docs/market/二级市场.md)
@@ -31,13 +31,13 @@
 * [新三板市场](docs/market/新三板市场.md)
 * [区域股权市场](docs/market/区域股权市场.md)
 
-## 股票术语
+## 股票相关
 
 * [股票](docs/stock/股票.md)
 * [白马股](docs/stock/白马股.md)
 * [蓝筹股](docs/stock/蓝筹股.md)
 
-## 基金术语
+## 基金相关
 
 * [基金](docs/fund/基金.md)
 * [货币基金](docs/fund/货币基金.md)
@@ -61,7 +61,7 @@
 * [能力圈](docs/value-investing/能力圈.md)
 * [安全边际](docs/value-investing/安全边际.md)
 
-## 银行存款
+## 银行相关
 
 * [创新型存款](docs/bank/创新型存款.md)
 * [结构型存款](docs/bank/结构型存款.md)

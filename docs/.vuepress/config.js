@@ -23,7 +23,7 @@ module.exports = {
         ['/data/市盈率陷阱', '市盈率陷阱'],
       ]
     }, {
-      title: "资金市场",
+      title: "市场相关",
       children: [
         ['/market/一级市场', '一级市场'],
         ['/market/二级市场', '二级市场'],
@@ -43,14 +43,14 @@ module.exports = {
         ['/market/区域股权市场', '区域股权市场'],
       ]
     }, {
-      title: "股票术语",
+      title: "股票相关",
       children: [
         ['/stock/股票', '股票'],
         ['/stock/白马股', '白马股'],
         ['/stock/蓝筹股', '蓝筹股'],
       ]
     }, {
-      title: "基金术语",
+      title: "基金相关",
       children: [
         ['/fund/基金', '基金'],
         ['/fund/货币基金', '货币基金'],
@@ -76,7 +76,7 @@ module.exports = {
         ['/value-investing/安全边际', '安全边际'],
       ]
     }, {
-      title: "银行存款",
+      title: "银行相关",
       children: [
         ['/bank/创新型存款', '创新型存款'],
         ['/bank/结构型存款', '结构型存款'],
