@@ -44,6 +44,7 @@
 * [深证成指](docs/value-investing/深证成指.md)
 * [创业板指](docs/value-investing/创业板指.md)
 * [中证全指](docs/value-investing/中证全指.md)
+* [恒生指数](docs/value-investing/恒生指数.md)
 
 ## 基金相关
 
