@@ -4,13 +4,11 @@
 
 * [理财小百科](https://jiucaixiaozhu.github.io/tips/)
 
-## 数值指标
+## 股票相关
 
-* [市净率](docs/data/市净率.md)
-* [市盈率](docs/data/市盈率.md)
-* [股息率](docs/data/股息率.md)
-* [分红率](docs/data/分红率.md)
-* [市盈率陷阱](docs/data/市盈率陷阱.md)
+* [股票](docs/stock/股票.md)
+* [白马股](docs/stock/白马股.md)
+* [蓝筹股](docs/stock/蓝筹股.md)
 
 ## 市场相关
 
@@ -31,11 +29,20 @@
 * [新三板市场](docs/market/新三板市场.md)
 * [区域股权市场](docs/market/区域股权市场.md)
 
-## 股票相关
 
-* [股票](docs/stock/股票.md)
-* [白马股](docs/stock/白马股.md)
-* [蓝筹股](docs/stock/蓝筹股.md)
+## 数值指标
+
+* [市净率](docs/data/市净率.md)
+* [市盈率](docs/data/市盈率.md)
+* [股息率](docs/data/股息率.md)
+* [分红率](docs/data/分红率.md)
+* [市盈率陷阱](docs/data/市盈率陷阱.md)
+
+## 指数相关
+
+* [上证指数](docs/value-investing/上证指数.md)
+* [深证成指](docs/value-investing/深证成指.md)
+* [创业板指](docs/value-investing/创业板指.md)
 
 ## 基金相关
 
@@ -54,11 +61,6 @@
 * [LOF](docs/fund/LOF.md)
 * [FOF](docs/fund/FOF.md)
 
-## 指数相关
-
-* [上证指数](docs/value-investing/上证指数.md)
-* [深证成指](docs/value-investing/深证成指.md)
-
 ## 价值投资
 
 * [价值投资](docs/value-investing/价值投资.md)
@@ -66,13 +68,10 @@
 * [能力圈](docs/value-investing/能力圈.md)
 * [安全边际](docs/value-investing/安全边际.md)
 
-## 银行相关
-
-* [创新型存款](docs/bank/创新型存款.md)
-* [结构型存款](docs/bank/结构型存款.md)
-
 ## 金融术语
 
+* [创新型存款](docs/terms/创新型存款.md)
+* [结构型存款](docs/terms/结构型存款.md)
 * [市场先生](docs/terms/市场先生.md)
 * [通货膨胀](docs/terms/通货膨胀.md)
 * [黑天鹅事件](docs/terms/黑天鹅事件.md)
