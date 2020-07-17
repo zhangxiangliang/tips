@@ -40,11 +40,11 @@
 
 ## 指数相关
 
-* [上证指数](docs/value-investing/上证指数.md)
-* [深证成指](docs/value-investing/深证成指.md)
-* [创业板指](docs/value-investing/创业板指.md)
-* [中证全指](docs/value-investing/中证全指.md)
-* [恒生指数](docs/value-investing/恒生指数.md)
+* [上证指数](docs/index/上证指数.md)
+* [深证成指](docs/index/深证成指.md)
+* [创业板指](docs/index/创业板指.md)
+* [中证全指](docs/index/中证全指.md)
+* [恒生指数](docs/index/恒生指数.md)
 
 ## 基金相关
 
