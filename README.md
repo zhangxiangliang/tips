@@ -54,6 +54,10 @@
 * [LOF](docs/fund/LOF.md)
 * [FOF](docs/fund/FOF.md)
 
+## 指数相关
+
+* [上证指数](docs/value-investing/上证指数.md)
+
 ## 价值投资
 
 * [价值投资](docs/value-investing/价值投资.md)

@@ -68,6 +68,11 @@ module.exports = {
         ['/fund/FOF', 'FOF'],
       ]
     }, {
+      title: "指数相关",
+      children: [
+        ['/index/上证指数', '上证指数'],
+      ]
+    }, {
       title: "价值投资",
       children: [
         ['/value-investing/价值投资', '价值投资'],
