@@ -71,6 +71,7 @@ module.exports = {
       title: "指数相关",
       children: [
         ['/index/上证指数', '上证指数'],
+        ['/index/深证成指', '深证成指'],
       ]
     }, {
       title: "价值投资",

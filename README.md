@@ -57,6 +57,7 @@
 ## 指数相关
 
 * [上证指数](docs/value-investing/上证指数.md)
+* [深证成指](docs/value-investing/深证成指.md)
 
 ## 价值投资
 
