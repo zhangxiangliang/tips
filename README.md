@@ -68,8 +68,9 @@
 * [公募基金](docs/fund/公募基金.md)
 * [私募基金](docs/fund/私募基金.md)
 
-## 可转债
+## 债券
 
+* [债券](docs/bond/债券.md)
 * [可转债](docs/bond/可转债.md)
 * [募集说明书](docs/bond/募集说明书.md)
 * [股东配售](docs/bond/股东配售.md)
