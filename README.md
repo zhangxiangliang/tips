@@ -63,6 +63,7 @@
 * [LOF](docs/fund/LOF.md)
 * [FOF](docs/fund/FOF.md)
 * [公募基金](docs/fund/公募基金.md)
+* [私募基金](docs/fund/私募基金.md)
 
 ## 价值投资
 

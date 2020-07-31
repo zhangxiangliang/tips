@@ -76,6 +76,8 @@ module.exports = {
         ['/fund/LOF', 'LOF'],
         ['/fund/FOF', 'FOF'],
         ['/fund/公募基金', '公募基金'],
+        ['/fund/私募基金', '私募基金'],
+
       ]
     }, {
       title: "价值投资",
