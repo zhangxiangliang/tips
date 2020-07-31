@@ -9,6 +9,7 @@
 * [股票](docs/stock/股票.md)
 * [白马股](docs/stock/白马股.md)
 * [蓝筹股](docs/stock/蓝筹股.md)
+* [优先股](docs/stock/优先股.md)
 
 ## 市场相关
 
