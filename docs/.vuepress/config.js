@@ -85,6 +85,7 @@ module.exports = {
       title: "可转债",
       children: [
         ['/bond/可转债', '可转债'],
+        ['/bond/募集说明书', '募集说明书'],
       ]
     }, {
       title: "价值投资",
