@@ -49,21 +49,22 @@
 ## 基金相关
 
 * [基金](docs/fund/基金.md)
+* [申购赎回](docs/fund/申购赎回.md)
+* [基金分红](docs/fund/基金分红.md)
 * [货币基金](docs/fund/货币基金.md)
 * [债券基金](docs/fund/债券基金.md)
 * [纯债基金](docs/fund/纯债基金.md)
 * [指数基金](docs/fund/指数基金.md)
+* [股票型基金](docs/fund/股票型基金.md)
 * [增强型指数基金](docs/fund/增强型指数基金.md)
 * [策略加权指数基金](docs/fund/策略加权指数基金.md)
-* [场外基金](docs/fund/场外基金.md)
 * [场内基金](docs/fund/场内基金.md)
-* [申购赎回](docs/fund/申购赎回.md)
-* [基金分红](docs/fund/基金分红.md)
 * [ETF](docs/fund/ETF.md)
 * [LOF](docs/fund/LOF.md)
 * [FOF](docs/fund/FOF.md)
 * [公募基金](docs/fund/公募基金.md)
 * [私募基金](docs/fund/私募基金.md)
+* [场外基金](docs/fund/场外基金.md)
 
 ## 价值投资
 
