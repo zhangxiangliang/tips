@@ -14,14 +14,6 @@ module.exports = {
       },
     ],
     sidebar: [{
-      title: "股票相关",
-      children: [
-        ['/stock/股票', '股票'],
-        ['/stock/白马股', '白马股'],
-        ['/stock/蓝筹股', '蓝筹股'],
-        ['/stock/优先股', '优先股'],
-      ]
-    }, {
       title: "市场相关",
       children: [
         ['/market/一级市场', '一级市场'],
@@ -49,6 +41,14 @@ module.exports = {
         ['/data/股息率', '股息率'],
         ['/data/分红率', '分红率'],
         ['/data/市盈率陷阱', '市盈率陷阱'],
+      ]
+    }, {
+      title: "股票相关",
+      children: [
+        ['/stock/股票', '股票'],
+        ['/stock/白马股', '白马股'],
+        ['/stock/蓝筹股', '蓝筹股'],
+        ['/stock/优先股', '优先股'],
       ]
     }, {
       title: "指数相关",
@@ -80,6 +80,11 @@ module.exports = {
         ['/fund/FOF', 'FOF'],
         ['/fund/公募基金', '公募基金'],
         ['/fund/私募基金', '私募基金'],
+      ]
+    }, {
+      title: "可转债",
+      children: [
+        ['/bond/可转债', '可转债'],
       ]
     }, {
       title: "价值投资",
