@@ -56,15 +56,16 @@
 * [纯债基金](docs/fund/纯债基金.md)
 * [指数基金](docs/fund/指数基金.md)
 * [股票型基金](docs/fund/股票型基金.md)
+* [平衡型基金](docs/fund/平衡型基金.md)
 * [增强型指数基金](docs/fund/增强型指数基金.md)
 * [策略加权指数基金](docs/fund/策略加权指数基金.md)
+* [场外基金](docs/fund/场外基金.md)
 * [场内基金](docs/fund/场内基金.md)
 * [ETF](docs/fund/ETF.md)
 * [LOF](docs/fund/LOF.md)
 * [FOF](docs/fund/FOF.md)
 * [公募基金](docs/fund/公募基金.md)
 * [私募基金](docs/fund/私募基金.md)
-* [场外基金](docs/fund/场外基金.md)
 
 ## 价值投资
 
