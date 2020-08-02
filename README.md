@@ -91,6 +91,7 @@
 
 ## 金融术语
 
+* [大类资产](docs/terms/大类资产.md)
 * [创新型存款](docs/terms/创新型存款.md)
 * [结构型存款](docs/terms/结构型存款.md)
 * [市场先生](docs/terms/市场先生.md)
