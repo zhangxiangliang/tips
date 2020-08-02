@@ -11,6 +11,8 @@
 * [股息率](docs/data/股息率.md)
 * [分红率](docs/data/分红率.md)
 * [市盈率陷阱](docs/data/市盈率陷阱.md)
+* [价值估值](docs/data/价值估值.md)
+* [现金流折现估值法](docs/data/现金流折现估值法.md)
 
 ## 股票相关
 
@@ -87,7 +89,6 @@
 
 ## 金融术语
 
-* [价值估值](docs/terms/价值估值.md)
 * [创新型存款](docs/terms/创新型存款.md)
 * [结构型存款](docs/terms/结构型存款.md)
 * [市场先生](docs/terms/市场先生.md)
