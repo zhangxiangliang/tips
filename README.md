@@ -14,7 +14,7 @@
 * [基本面分析](docs/data/基本面分析.md)
 * [技术面分析](docs/data/技术面分析.md)
 * [定量分析](docs/data/定量分析.md)
-
+* [定性分析](docs/data/定性分析.md)
 
 ## 股票相关
 
