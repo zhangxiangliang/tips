@@ -104,6 +104,7 @@ module.exports = {
     }, {
       title: "金融术语",
       children: [
+        ['/terms/估值', '估值'],
         ['/terms/创新型存款', '创新型存款'],
         ['/terms/结构型存款', '结构型存款'],
         ['/terms/市场先生', '市场先生'],
