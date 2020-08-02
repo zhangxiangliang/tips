@@ -11,8 +11,10 @@
 * [股息率](docs/data/股息率.md)
 * [分红率](docs/data/分红率.md)
 * [市盈率陷阱](docs/data/市盈率陷阱.md)
-* [基本面](docs/data/基本面.md)
-* [技术面](docs/data/技术面.md)
+* [基本面分析](docs/data/基本面分析.md)
+* [技术面分析](docs/data/技术面分析.md)
+* [定量分析](docs/data/定量分析.md)
+
 
 ## 股票相关
 
