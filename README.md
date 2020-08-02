@@ -89,6 +89,16 @@
 * [企鹅估值法](docs/value-investing/企鹅估值法.md)
 * [现金流折现估值法](docs/value-investing/现金流折现估值法.md)
 
+## 护城河
+
+* [护城河](docs/moat/护城河.md)
+* [网络效应护城河](docs/moat/网络效应护城河.md)
+* [规模效应护城河](docs/moat/规模效应护城河.md)
+* [转换成本护城河](docs/moat/转换成本护城河.md)
+* [无形资产护城河](docs/moat/无形资产护城河.md)
+* [品牌认知护城河](docs/moat/品牌认知护城河.md)
+* [专利技术护城河](docs/moat/专利技术护城河.md)
+
 ## 金融术语
 
 * [大类资产](docs/terms/大类资产.md)
@@ -100,11 +110,4 @@
 * [黑天鹅事件](docs/terms/黑天鹅事件.md)
 * [灰犀牛事件](docs/terms/灰犀牛事件.md)
 
-## 护城河
 
-* [护城河](docs/moat/护城河.md)
-* [网络效应护城河](docs/moat/网络效应护城河.md)
-* [规模效应护城河](docs/moat/规模效应护城河.md)
-* [转换成本护城河](docs/moat/转换成本护城河.md)
-* [无形资产护城河](docs/moat/无形资产护城河.md)
-* [品牌认知护城河](docs/moat/品牌认知护城河.md)
