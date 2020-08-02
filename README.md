@@ -72,6 +72,7 @@
 * [债券](docs/bond/债券.md)
 * [政府债](docs/bond/政府债.md)
 * [企业债](docs/bond/企业债.md)
+* [地方债](docs/bond/地方债.md)
 * [可转债](docs/bond/可转债.md)
 * [国债逆回购](docs/bond/国债逆回购.md)
 * [募集说明书](docs/bond/募集说明书.md)
