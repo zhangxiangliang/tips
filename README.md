@@ -7,10 +7,11 @@
 ## 数值指标
 
 * [市净率](docs/data/市净率.md)
-* [市盈率](docs/data/市盈率.md)
 * [股息率](docs/data/股息率.md)
 * [分红率](docs/data/分红率.md)
+* [市盈率](docs/data/市盈率.md)
 * [市盈率陷阱](docs/data/市盈率陷阱.md)
+* [净资产收益率](docs/data/净资产收益率.md)
 
 ## 股票相关
 
