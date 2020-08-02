@@ -11,10 +11,6 @@
 * [股息率](docs/data/股息率.md)
 * [分红率](docs/data/分红率.md)
 * [市盈率陷阱](docs/data/市盈率陷阱.md)
-* [基本面分析](docs/data/基本面分析.md)
-* [技术面分析](docs/data/技术面分析.md)
-* [定量分析](docs/data/定量分析.md)
-* [定性分析](docs/data/定性分析.md)
 
 ## 股票相关
 
@@ -92,6 +88,11 @@
 * [清算估值法](docs/value-investing/清算估值法.md)
 * [企鹅估值法](docs/value-investing/企鹅估值法.md)
 * [现金流折现估值法](docs/value-investing/现金流折现估值法.md)
+* [基本面分析](docs/value-investing/基本面分析.md)
+* [技术面分析](docs/value-investing/技术面分析.md)
+* [定量分析](docs/value-investing/定量分析.md)
+* [定性分析](docs/value-investing/定性分析.md)
+
 
 ## 护城河
 

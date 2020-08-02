@@ -21,10 +21,6 @@ module.exports = {
           ['/data/股息率', '股息率'],
           ['/data/分红率', '分红率'],
           ['/data/市盈率陷阱', '市盈率陷阱'],
-          ['/data/基本面分析', '基本面分析'],
-          ['/data/技术面分析', '技术面分析'],
-          ['/data/定量分析', '定量分析'],
-          ['/data/定性分析', '定性分析'],
         ]
       }, {
         title: "股票相关",
@@ -108,6 +104,10 @@ module.exports = {
           ['/value-investing/企鹅估值法', '企鹅估值法'],
           ['/value-investing/清算估值法', '清算估值法'],
           ['/value-investing/现金流折现估值法', '现金流折现估值法'],
+          ['/value-investing/基本面分析', '基本面分析'],
+          ['/value-investing/技术面分析', '技术面分析'],
+          ['/value-investing/定量分析', '定量分析'],
+          ['/value-investing/定性分析', '定性分析'],
         ]
       }, {
         title: "护城河",
