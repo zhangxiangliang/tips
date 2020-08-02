@@ -11,8 +11,6 @@
 * [股息率](docs/data/股息率.md)
 * [分红率](docs/data/分红率.md)
 * [市盈率陷阱](docs/data/市盈率陷阱.md)
-* [价值估值](docs/data/价值估值.md)
-* [现金流折现估值法](docs/data/现金流折现估值法.md)
 
 ## 股票相关
 
@@ -86,6 +84,9 @@
 * [基础概念](docs/value-investing/基础概念.md)
 * [能力圈](docs/value-investing/能力圈.md)
 * [安全边际](docs/value-investing/安全边际.md)
+* [价值估值](docs/value-investing/价值估值.md)
+* [企鹅估值法](docs/value-investing/企鹅估值法.md)
+* [现金流折现估值法](docs/value-investing/现金流折现估值法.md)
 
 ## 金融术语
 

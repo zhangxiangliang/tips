@@ -21,7 +21,6 @@ module.exports = {
         ['/data/股息率', '股息率'],
         ['/data/分红率', '分红率'],
         ['/data/市盈率陷阱', '市盈率陷阱'],
-        ['/data/价值估值', '价值估值'],
       ]
     }, {
       title: "股票相关",
@@ -101,6 +100,9 @@ module.exports = {
         ['/value-investing/基础概念', '基础概念'],
         ['/value-investing/能力圈', '能力圈'],
         ['/value-investing/安全边际', '安全边际'],
+        ['/value-investing/价值估值', '价值估值'],
+        ['/value-investing/企鹅估值法', '企鹅估值法'],
+        ['/value-investing/现金流折现估值法', '现金流折现估值法'],
       ]
     }, {
       title: "金融术语",
