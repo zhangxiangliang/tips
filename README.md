@@ -91,12 +91,6 @@
 
 ## 金融术语
 
-* [护城河](docs/terms/护城河.md)
-* [网络效应护城河](docs/terms/网络效应护城河.md)
-* [规模效应护城河](docs/terms/规模效应护城河.md)
-* [转换成本护城河](docs/terms/转换成本护城河.md)
-* [无形资产护城河](docs/terms/无形资产护城河.md)
-* [品牌认知护城河](docs/terms/品牌认知护城河.md)
 * [大类资产](docs/terms/大类资产.md)
 * [品牌溢价](docs/terms/品牌溢价.md)
 * [创新型存款](docs/terms/创新型存款.md)
@@ -105,3 +99,12 @@
 * [通货膨胀](docs/terms/通货膨胀.md)
 * [黑天鹅事件](docs/terms/黑天鹅事件.md)
 * [灰犀牛事件](docs/terms/灰犀牛事件.md)
+
+## 护城河
+
+* [护城河](docs/moat/护城河.md)
+* [网络效应护城河](docs/moat/网络效应护城河.md)
+* [规模效应护城河](docs/moat/规模效应护城河.md)
+* [转换成本护城河](docs/moat/转换成本护城河.md)
+* [无形资产护城河](docs/moat/无形资产护城河.md)
+* [品牌认知护城河](docs/moat/品牌认知护城河.md)
