@@ -102,6 +102,7 @@ module.exports = {
         ['/value-investing/安全边际', '安全边际'],
         ['/value-investing/价值估值', '价值估值'],
         ['/value-investing/企鹅估值法', '企鹅估值法'],
+        ['/value-investing/清算估值法', '清算估值法'],
         ['/value-investing/现金流折现估值法', '现金流折现估值法'],
       ]
     }, {

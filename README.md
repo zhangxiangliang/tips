@@ -85,6 +85,7 @@
 * [能力圈](docs/value-investing/能力圈.md)
 * [安全边际](docs/value-investing/安全边际.md)
 * [价值估值](docs/value-investing/价值估值.md)
+* [清算估值法](docs/value-investing/清算估值法.md)
 * [企鹅估值法](docs/value-investing/企鹅估值法.md)
 * [现金流折现估值法](docs/value-investing/现金流折现估值法.md)
 
