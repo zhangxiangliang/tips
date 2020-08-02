@@ -4,6 +4,21 @@
 
 * [理财小百科](https://jiucaixiaozhu.github.io/tips/)
 
+## 数值指标
+
+* [市净率](docs/data/市净率.md)
+* [市盈率](docs/data/市盈率.md)
+* [股息率](docs/data/股息率.md)
+* [分红率](docs/data/分红率.md)
+* [市盈率陷阱](docs/data/市盈率陷阱.md)
+
+## 股票相关
+
+* [股票](docs/stock/股票.md)
+* [白马股](docs/stock/白马股.md)
+* [蓝筹股](docs/stock/蓝筹股.md)
+* [优先股](docs/stock/优先股.md)
+
 ## 市场相关
 
 * [一级市场](docs/market/一级市场.md)
@@ -22,22 +37,6 @@
 * [科创板市场](docs/market/科创板市场.md)
 * [新三板市场](docs/market/新三板市场.md)
 * [区域股权市场](docs/market/区域股权市场.md)
-
-
-## 数值指标
-
-* [市净率](docs/data/市净率.md)
-* [市盈率](docs/data/市盈率.md)
-* [股息率](docs/data/股息率.md)
-* [分红率](docs/data/分红率.md)
-* [市盈率陷阱](docs/data/市盈率陷阱.md)
-
-## 股票相关
-
-* [股票](docs/stock/股票.md)
-* [白马股](docs/stock/白马股.md)
-* [蓝筹股](docs/stock/蓝筹股.md)
-* [优先股](docs/stock/优先股.md)
 
 ## 指数相关
 
@@ -72,6 +71,7 @@
 
 * [债券](docs/bond/债券.md)
 * [可转债](docs/bond/可转债.md)
+* [国债逆回购](docs/bond/国债逆回购.md)
 * [募集说明书](docs/bond/募集说明书.md)
 * [股东配售](docs/bond/股东配售.md)
 
