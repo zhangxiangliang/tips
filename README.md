@@ -111,6 +111,7 @@
 
 * [商业模式](docs/business/商业模式.md)
 * [高利润模式](docs/business/高利润模式.md)
+* [高周转模式](docs/business/高周转模式.md)
 * [品牌溢价](docs/business/品牌溢价.md)
 * [非经常性损益](docs/business/非经常性损益.md)
 
