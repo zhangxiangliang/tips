@@ -128,6 +128,7 @@ module.exports = {
         title: "商业相关",
         children: [
           ['/business/商业模式', '商业模式'],
+          ['/business/高利润模式', '高利润模式'],
           ['/business/品牌溢价', '品牌溢价'],
           ['/business/非经常性损益', '非经常性损益'],
         ]
