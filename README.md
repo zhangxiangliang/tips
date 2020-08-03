@@ -115,6 +115,7 @@
 * [高杠杆模式](docs/business/高杠杆模式.md)
 * [TO B 模式](docs/business/TOB模式.md)
 * [TO C 模式](docs/business/TOC模式.md)
+* [TO G 模式](docs/business/TOG模式.md)
 * [品牌溢价](docs/business/品牌溢价.md)
 * [非经常性损益](docs/business/非经常性损益.md)
 
