@@ -132,6 +132,7 @@ module.exports = {
           ['/business/高周转模式', '高周转模式'],
           ['/business/高杠杆模式', '高杠杆模式'],
           ['/business/TOB模式', 'TO B 模式'],
+          ['/business/TOC模式', 'TO C 模式'],
           ['/business/品牌溢价', '品牌溢价'],
           ['/business/非经常性损益', '非经常性损益'],
         ]
