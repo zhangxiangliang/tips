@@ -107,6 +107,12 @@
 * [专利技术护城河](docs/moat/专利技术护城河.md)
 * [法定许可护城河](docs/moat/法定许可护城河.md)
 
+## 商业相关
+
+* [商业模式](docs/business/商业模式.md)
+* [品牌溢价](docs/business/品牌溢价.md)
+* [非经常性损益](docs/business/非经常性损益.md)
+
 ## 金融术语
 
 * [大类资产](docs/terms/大类资产.md)
