@@ -113,6 +113,7 @@
 * [高利润模式](docs/business/高利润模式.md)
 * [高周转模式](docs/business/高周转模式.md)
 * [高杠杆模式](docs/business/高杠杆模式.md)
+* [TO B 模式](docs/business/TOB模式.md)
 * [品牌溢价](docs/business/品牌溢价.md)
 * [非经常性损益](docs/business/非经常性损益.md)
 
