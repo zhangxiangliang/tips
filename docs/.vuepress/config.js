@@ -43,17 +43,17 @@ module.exports = {
           ['/stock/看跌期权', '看跌期权'],
           ['/stock/看涨期权', '看涨期权'],
           ['/stock/股票期权', '股票期权'],
-          ['/stock/N开头', 'N开头'],
-          ['/stock/融结尾', '融结尾'],
-          ['/stock/XD开头', 'XD开头'],
+          ['/stock/N开头', 'N 开头'],
+          ['/stock/融结尾', '融 结尾'],
+          ['/stock/XD开头', 'XD 开头'],
         ]
       }, {
         title: "市场相关",
         children: [
           ['/market/一级市场', '一级市场'],
           ['/market/二级市场', '二级市场'],
-          ['/market/A股', 'A股'],
-          ['/market/B股', 'B股'],
+          ['/market/A股', 'A 股'],
+          ['/market/B股', 'B 股'],
           ['/market/港股', '港股'],
           ['/market/美股', '美股'],
           ['/market/北上资金', '北上资金'],
