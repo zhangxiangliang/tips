@@ -32,6 +32,7 @@
 * [看跌期权](docs/stock/看跌期权.md)
 * [看张期权](docs/stock/看张期权.md)
 * [股票期权](docs/stock/股票期权.md)
+* [N字股](docs/stock/N字股.md)
 
 ## 市场相关
 
@@ -144,5 +145,3 @@
 * [金融衍生品](docs/terms/金融衍生品.md)
 * [期权](docs/terms/期权.md)
 * [期货](docs/terms/期货.md)
-
-
