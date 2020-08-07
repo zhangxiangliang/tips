@@ -32,8 +32,9 @@
 * [看跌期权](docs/stock/看跌期权.md)
 * [看张期权](docs/stock/看张期权.md)
 * [股票期权](docs/stock/股票期权.md)
-* [N字头](docs/stock/N字头.md)
-* [融字尾](docs/stock/融字尾.md)
+* [N开头](docs/stock/N开头.md)
+* [融结尾](docs/stock/融结尾.md)
+* [XD开头](docs/stock/XD开头.md)
 
 ## 市场相关
 
