@@ -30,7 +30,7 @@
 * [印花税](docs/stock/印花税.md)
 * [红利税](docs/stock/红利税.md)
 * [看跌期权](docs/stock/看跌期权.md)
-* [看张期权](docs/stock/看张期权.md)
+* [看涨期权](docs/stock/看涨期权.md)
 * [股票期权](docs/stock/股票期权.md)
 * [N开头](docs/stock/N开头.md)
 * [融结尾](docs/stock/融结尾.md)
