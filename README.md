@@ -22,6 +22,7 @@
 * [涨跌停](docs/stock/涨跌停.md)
 * [熔断](docs/stock/熔断.md)
 * [做空股票](docs/stock/做空股票.md)
+* [做多股票](docs/stock/做多股票.md)
 * [股权质押](docs/stock/股权质押.md)
 
 ## 市场相关
