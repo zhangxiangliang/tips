@@ -27,6 +27,7 @@
 * [交易手续费](docs/stock/交易手续费.md)
 * [券商佣金](docs/stock/券商佣金.md)
 * [证券过户费](docs/stock/证券过户费.md)
+* [印花税](docs/stock/印花税.md)
 
 ## 市场相关
 
