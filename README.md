@@ -139,5 +139,6 @@
 * [黑天鹅事件](docs/terms/黑天鹅事件.md)
 * [灰犀牛事件](docs/terms/灰犀牛事件.md)
 * [金融衍生品](docs/terms/金融衍生品.md)
+* [期权](docs/terms/期权.md)
 
 
