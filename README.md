@@ -20,6 +20,7 @@
 * [蓝筹股](docs/stock/蓝筹股.md)
 * [优先股](docs/stock/优先股.md)
 * [涨跌停](docs/stock/涨跌停.md)
+* [熔断](docs/stock/熔断.md)
 * [股权质押](docs/stock/股权质押.md)
 
 ## 市场相关
