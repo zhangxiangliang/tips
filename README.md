@@ -150,9 +150,7 @@
 
 ## 一起成长
 
-> 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
-
-* 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/tips) 给个 `小星星`。
+如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/zhangxiangliang/personal-financial-planning) 加个 star。
 
 > 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)
+
